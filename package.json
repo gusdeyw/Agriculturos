@@ -1,0 +1,24 @@
+{
+  "name": "Agriculturos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o  public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusdeyw/Agriculturos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusdeyw/Agriculturos/issues"
+  },
+  "homepage": "https://github.com/gusdeyw/Agriculturos#readme",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "tailwindcss": "^2.2.16"
+  }
+}
